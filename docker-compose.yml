@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  fotosklep:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fotosklep
+    restart: unless-stopped
+    ports:
+      - "4838:4838"
+    environment:
+      - NODE_ENV=production
+      - PORT=4838
+      - DATA_DIR=/app/data
+    volumes:
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4838/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
