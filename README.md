@@ -2,6 +2,8 @@
 
 A high-aesthetic, production-grade photo proofing portal designed for professional photographers following Apple's fluid design principles. Built as a lightweight, single Docker container with an embedded SQLite database and dynamic watermarking powered by `sharp`.
 
+> ⚠️ **Disclaimer:** This project was **vibe-coded as a fun side project.** It is provided as-is, and there is no guarantee that it will be actively maintained or updated in the future. Feel free to fork it, adapt it, or use it as inspiration!
+
 ## Photographer Workspace
 <img width="1920" height="1050" alt="Screenshot 2026-11-10 at 21 11 36" src="https://github.com/user-attachments/assets/6b901747-187c-488c-97fd-8b282001fc6b" />
 <img width="1674" height="963" alt="Screenshot 2026-11-10 at 21 10 59" src="https://github.com/user-attachments/assets/cd33e019-cf2b-4c1a-88f7-ce904912264a" />
