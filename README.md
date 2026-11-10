@@ -2,6 +2,20 @@
 
 A high-aesthetic, production-grade photo proofing portal designed for professional photographers following Apple's fluid design principles. Built as a lightweight, single Docker container with an embedded SQLite database and dynamic watermarking powered by `sharp`.
 
+## Photographer Workspace
+<img width="1920" height="1050" alt="Screenshot 2026-11-10 at 21 11 36" src="https://github.com/user-attachments/assets/6b901747-187c-488c-97fd-8b282001fc6b" />
+<img width="1674" height="963" alt="Screenshot 2026-11-10 at 21 10 59" src="https://github.com/user-attachments/assets/cd33e019-cf2b-4c1a-88f7-ce904912264a" />
+<img width="1920" height="1050" alt="Screenshot 2026-11-10 at 21 12 42" src="https://github.com/user-attachments/assets/eedbe717-7a2f-4936-916a-a9b8de1d1b05" />
+<img width="1920" height="1050" alt="Screenshot 2026-11-10 at 21 11 13" src="https://github.com/user-attachments/assets/e094901b-9a92-4e3e-b3f3-5d6dc4bf413d" />
+<img width="1920" height="1050" alt="Screenshot 2026-11-10 at 21 11 23" src="https://github.com/user-attachments/assets/16485237-49a4-40b1-ae90-c1d1cf0fbcb4" />
+
+## Client proofing portal
+<img width="1674" height="963" alt="Screenshot 2026-11-10 at 21 31 26" src="https://github.com/user-attachments/assets/989cd9fb-2400-4e68-bf92-710be93e1526" />
+<img width="1674" height="963" alt="Screenshot 2026-11-10 at 21 09 05" src="https://github.com/user-attachments/assets/3db07a54-313e-4b20-b65e-b89297069344" />
+<img width="1674" height="963" alt="Screenshot 2026-11-10 at 21 09 24" src="https://github.com/user-attachments/assets/de415590-1b60-4c04-adea-4d01b6a5d454" />
+<img width="1674" height="963" alt="Screenshot 2026-11-10 at 21 09 41" src="https://github.com/user-attachments/assets/1be6e59c-c0a5-4f9c-85c3-f3d5181758b7" />
+<img width="1674" height="963" alt="Pasted 2026-11-10 at 9 12 13 PM" src="https://github.com/user-attachments/assets/214693d7-a28d-42f5-ba03-2e01db5873fd" />
+
 ---
 
 ## Key Features
